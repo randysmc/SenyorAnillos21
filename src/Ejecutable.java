@@ -4,8 +4,8 @@ public class Ejecutable{
 
 		System.out.println("Hola mundo");
 
-		Elfo elfo1 = new Elfo("RaRaRamon");
-		elfo1.saludar();
+		Juego juego = new Juego();
+		juego.jugar();
 
 
 	}
